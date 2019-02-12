@@ -1,0 +1,6 @@
+C:\Users\hikoboshi\RiderProjects\ShiftRegister\ShiftRegister\bin\Debug\ShiftRegister.exe
+C:\Users\hikoboshi\RiderProjects\ShiftRegister\ShiftRegister\bin\Debug\ShiftRegister.pdb
+C:\Users\hikoboshi\RiderProjects\ShiftRegister\ShiftRegister\obj\Debug\ShiftRegister.csprojAssemblyReference.cache
+C:\Users\hikoboshi\RiderProjects\ShiftRegister\ShiftRegister\obj\Debug\ShiftRegister.csproj.CoreCompileInputs.cache
+C:\Users\hikoboshi\RiderProjects\ShiftRegister\ShiftRegister\obj\Debug\ShiftRegister.exe
+C:\Users\hikoboshi\RiderProjects\ShiftRegister\ShiftRegister\obj\Debug\ShiftRegister.pdb
